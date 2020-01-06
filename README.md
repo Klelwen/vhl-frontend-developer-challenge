@@ -1,8 +1,8 @@
-# VHL Sistemas | Desafio Frontend Developer - Elington Silva
+# Dashboard for VHL Sistemas - Elington Silva
 
-Esse projeto foi implementado com Vue.js e Sass para o desafio de Frontend Developer da empresa VHL Sistemas
+Esse projeto foi implementado com Vue.js e Sass para o desafio da VHL Sistemas
 
-## Funcionalidades Desenvolvidas:
+## Funcionalidades:
 - Consulta de dados em arquivos .json
 - Filtro de Bookmarks
 
