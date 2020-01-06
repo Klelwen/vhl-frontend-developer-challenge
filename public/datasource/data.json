@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Analyze Article Submission",
+        "due": "11/05/2018 04:30:00",
+        "on": "10/17/2018 04:20:00",
+        "type": "assignment",
+        "a": "GK 324",
+        "color": [
+            "#5ea45f",
+            "#e8f5ea"
+        ],
+        "points": 60,
+        "b": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "described": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi a odio condimentum cursus. Cras elementum ante neque, vel sollicitudin quam vestibulum eu.",
+            "Aenean mollis, nulla vitae porta sollicitudin, lacus sem dictum enim, quis luctus lacus metus sed ipsum. Proin ut risus commodo metus egestas varius. Nulla mattis at est non luctus. Curabitur venenatis lacinia nisi vitae auctor.",
+            "Aenean sed dui vitae est mattis lobortis. Donec nec posuere velit, ac laoreet diam. Vivamus at sagittis elit, in tristique ligula."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Final Script Revision & Review",
+        "due": "11/07/2018 23:20:00",
+        "on": "09/09/2018 12:00:00",
+        "type": "assignment",
+        "a": "RTF 370",
+        "color": [
+            "#6792d6",
+            "#e4f2fd"
+        ],
+        "points": 30,
+        "b": "U.S. & Latin American Relations 1838-1960 (113082)",
+        "described": [
+            "This exam covers everything from Unit 2 on the syllabus. It will consist of 3 short-answer open ended questions and 1 essay format question.",
+            "Keep in mind that topcis discussed during lecture are fair game ;) hefer to the supporting docs for outside reading requirements."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Section #4 Comprehension Test",
+        "on": "11/06/2018 01:40:00",
+        "due": null,
+        "type": "exam",
+        "a": "LAT 323",
+        "color": [
+            "#c2205b",
+            "#fce4ec"
+        ],
+        "points": 90,
+        "b": "U.S. & Latin American Relations 1838-1960 (113082)",
+        "described": [
+            "This exam covers everything from Unit 2 on the syllabus. It will consist of 3 short-answer open ended questions and 1 essay format question.",
+            "Keep in mind that topcis discussed during lecture are fair game ;) hefer to the supporting docs for outside reading requirements."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Exam 2: Latin America 1883-1930",
+        "on": "11/09/2018 23:59:00",
+        "due": null,
+        "type": "exam",
+        "a": "HIS 441",
+        "color": [
+            "#e5b749",
+            "#fff8e2"
+        ],
+        "points": 50,
+        "b": "U.S. & Latin American Relations 1838-1960 (113082)",
+        "described": [
+            "This exam covers everything from Unit 2 on the syllabus. It will consist of 3 short-answer open ended questions and 1 essay format question.",
+            "Keep in mind that topcis discussed during lecture are fair game ;) hefer to the supporting docs for outside reading requirements."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Unit Quiz #9: Present Perfect",
+        "on": "11/10/2018 04:00:00",
+        "due": null,
+        "type": "quiz",
+        "a": "GK 324",
+        "color": [
+            "#69a76c",
+            "#e8f5ea"
+        ],
+        "points": 75,
+        "b": "U.S. & Latin American Relations 1838-1960 (113082)",
+        "described": [
+            "This exam covers everything from Unit 2 on the syllabus. It will consist of 3 short-answer open ended questions and 1 essay format question.",
+            "Keep in mind that topcis discussed during lecture are fair game ;) hefer to the supporting docs for outside reading requirements."
+        ]
+    }
+]

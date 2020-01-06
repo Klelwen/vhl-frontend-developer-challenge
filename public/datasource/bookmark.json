@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Supporting Docs for Exam 2",
+        "created": "10/14/2019",
+        "uploaded": "10/17/2019",
+        "type": "resource",
+        "link": "/documents/sample.pdf",
+        "a": "HIS 441",
+        "color": [
+            "#efaf24",
+            "#fff8e2"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Overview: Chapter 1-7",
+        "created": "09/01/2019",
+        "uploaded": "09/09/2019",
+        "type": "resource",
+        "link": "https://docs.google.com/document/d/1zJZhyQzQiN2VEHoQpsfqEWUjNG3V9lNnXw6n2Jhck8I/edit?usp=sharing",
+        "a": "ant 307",
+        "color": [
+            "#77c9d3",
+            "#e1f7fb"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Weekly Quizzer",
+        "created": "08/30/2019",
+        "type": "module",
+        "uploaded": null,
+        "link": null,
+        "a": "LAT 323",
+        "color": [
+            "#af3462",
+            "#fce4ec"
+        ]
+    }
+]
